@@ -1,0 +1,12 @@
+{
+  "name": "tf-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0",
+    "pack" : "zip -jr function.zip src/index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
